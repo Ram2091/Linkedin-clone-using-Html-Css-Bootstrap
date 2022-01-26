@@ -340,10 +340,12 @@ font-size: 14px;
 font-size: 12px;
 color: gray;
 }
+
 @media screen and (max-width: 767px) {
 .header__right h3 {
 display: none;
 }
+
 .body__main {
 flex-direction: column;
 }
@@ -354,6 +356,7 @@ position: static;
 margin: 20px 0;
 }
 }
+
 @media screen and (max-width: 641px) {
 .header__left,
 .feed__inputOptions h4 {
