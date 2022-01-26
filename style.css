@@ -349,6 +349,7 @@ display: none;
 .body__main {
 flex-direction: column;
 }
+
 .sidebar {
 position: static;
 }
